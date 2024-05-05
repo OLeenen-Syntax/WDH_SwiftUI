@@ -11,7 +11,6 @@
 		BDC884292BE7B7EC00416847 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC884282BE7B7EC00416847 /* ContentView.swift */; };
 		BDC8842B2BE7B7EC00416847 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDC8842A2BE7B7EC00416847 /* Assets.xcassets */; };
 		BDC8842E2BE7B7EC00416847 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDC8842D2BE7B7EC00416847 /* Preview Assets.xcassets */; };
-		BDC884372BE7B87B00416847 /* Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC884362BE7B87B00416847 /* Lists.swift */; };
 		BDE5A9C92BE7B9DB00423F87 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE5A9C82BE7B9DB00423F87 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,7 +33,6 @@
 		BDC8842A2BE7B7EC00416847 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDC8842D2BE7B7EC00416847 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BDC8842F2BE7B7EC00416847 /* WDH_SwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = WDH_SwiftUI.entitlements; sourceTree = "<group>"; };
-		BDC884362BE7B87B00416847 /* Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lists.swift; sourceTree = "<group>"; };
 		BDE5A9C62BE7B9DB00423F87 /* CMD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CMD; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDE5A9C82BE7B9DB00423F87 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -99,7 +97,6 @@
 		BDC884352BE7B86900416847 /* Themen */ = {
 			isa = PBXGroup;
 			children = (
-				BDC884362BE7B87B00416847 /* Lists.swift */,
 			);
 			path = Themen;
 			sourceTree = "<group>";
@@ -205,7 +202,6 @@
 			files = (
 				BDC884292BE7B7EC00416847 /* ContentView.swift in Sources */,
 				BDC884272BE7B7EC00416847 /* WDH_SwiftUIApp.swift in Sources */,
-				BDC884372BE7B87B00416847 /* Lists.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
